@@ -1,0 +1,304 @@
+<resources>
+    <string name="app_name">កម្មវិធីភាគថៃ</string>
+    
+    <string name="app_title">រឿងភាគថៃ - Live TV</string>
+    <string name="app_version">1.0.0</string>
+    <string name="contact_email">thaimovie@pm.me</string>
+    <string name="copyright_text">Copyright @ ThaiDev, All right reserved</string>
+
+    
+    <string name="featured_tv_channels">ប៉ុស្តិ៍ទូរទស្សន៍ពិសេស</string>
+    <string name="latest_movie">ភាពយន្តថ្មីៗ</string>
+    <string name="latest_tv_series">ស៊េរីទូរទស្សន៍ចុងក្រោយបំផុត។</string>
+    <string name="more">ច្រើនទៀត</string>
+    <string name="movie">ភាពយន្ត</string>
+    <string name="live_tv">ទូរទស្សន៍ផ្សាយបន្តផ្ទាល់</string>
+    <string name="tv_series">ស៊េរី</string>
+    <string name="country">ប្រទេស</string>
+    <string name="genre">ប្រភេទ</string>
+    <string name="favorite">សំណព្វ</string>
+    <string name="search">ស្វែងរក</string>
+    <string name="no_item_found">រកមិនឃើញធាតុទេ។</string>
+    <string name="cast_n_crew">តួសម្តែង និងនាវិក</string>
+    <string name="signin">ចូល</string>
+    <string name="reset">កំណត់ពាក្យសម្ងាត់ឡើងវិញ</string>
+    <string name="register">ចុះឈ្មោះ</string>
+    <string name="full_name">ឈ្មោះ​ពេញ</string>
+    <string name="email">អ៊ីមែល</string>
+    <string name="password">ពាក្យសម្ងាត់</string>
+    <string name="save">រក្សាទុក</string>
+    <string name="director">នាយក :</string>
+    <string name="comments">មតិយោបល់</string>
+    <string name="your_comments">មតិ​របស់​អ្នក</string>
+    <string name="add_comments">បន្ថែមមតិ</string>
+    <string name="no_internet">គ្មានអ៊ីនធឺណិតទេ!</string>
+    <string name="copyright">រក្សាសិទ្ធិ</string>
+    <string name="contact_us">ទាក់ទង​មក​ពួក​យើង</string>
+    <string name="fetch_error">មិនអាចទៅយកទិន្នន័យបានទេ។</string>
+    <string name="login_first">អ្នកត្រូវចូលជាមុនសិន</string>
+    <string name="comment_empty">មតិយោបល់មិនអាចទទេបានទេ។</string>
+    <string name="error_toast">មាន​អ្វីមួយ​មិន​ប្រក្រតី ! </string>
+    <string name="vpn_detected">VPN រកឃើញហើយ!!</string>
+    <string name="close_vpn">បិទ VPN ហើយបើកកម្មវិធីនេះឡើងវិញ។</string>
+    <string name="track_selection_title">ផ្លាស់ប្តូរបទ</string>
+    <string name="default_stream_quality">គុណភាពស្ទ្រីមលំនាំដើម</string>
+    <string name="default_download_quality">គុណភាពទាញយកលំនាំដើម</string>
+    <string name="notification_error">កំហុស</string>
+    <string name="out_of_memory">មិនមានកន្លែងទំនេរទេ។</string>
+
+    <string-array name="nav_item_name">
+        <item>ផ្ទះ</item>
+        <item>ភាពយន្ត</item>
+        <item>ស៊េរី</item>
+        <item>ទូរទស្សន៍ផ្សាយបន្តផ្ទាល់</item>
+        <item>ប្រភេទ</item>
+        <item>ប្រទេស</item>
+        <item>ប្រវត្តិរូប</item>
+        <item>សំណព្វ</item>
+        <item>ការជាវ</item>
+        <item>ការទាញយក</item>
+        <item>ការកំណត់</item>
+        <item>ចាកចេញ</item>
+
+    </string-array>
+
+    <string-array name="nav_item_image" translatable="false">
+        <item>outline_home_24</item>
+        <item>outline_movie_24</item>
+        <item>outline_local_movies_24</item>
+        <item>outline_live_tv_24</item>
+        <item>outline_folder_24</item>
+        <item>outline_outlined_flag_24</item>
+        <item>outline_person_24</item>
+        <item>outline_favorite_border_24</item>
+        <item>ic_subscriptions_black_24dp</item>
+        <item>ic_file_download_black_24dp</item>
+        <item>outline_settings_24</item>
+        <item>outline_lock_24</item>
+    </string-array>
+
+
+    <string-array name="nav_item_name_2">
+        <item>ផ្ទះ</item>
+        <item>ភាពយន្ត</item>
+        <item>ស៊េរី</item>
+        <item>ទូរទស្សន៍ផ្សាយបន្តផ្ទាល់</item>
+        <item>ប្រភេទ</item>
+        <item>ប្រទេស</item>
+        <item>ចូល</item>
+        <item>ការកំណត់</item>
+    </string-array>
+
+    <string-array name="nav_item_image_2" translatable="false">
+        <item>outline_home_24</item>
+        <item>outline_movie_24</item>
+        <item>outline_local_movies_24</item>
+        <item>outline_live_tv_24</item>
+        <item>outline_folder_24</item>
+        <item>outline_outlined_flag_24</item>
+        <item>outline_lock_24</item>
+        <item>outline_settings_24</item>
+    </string-array>
+
+
+    
+    
+    <string-array name="paypal_currency_list" translatable="false">
+        <item>USD</item>
+        <item>AUD</item>
+        <item>BRL</item>
+        <item>GBP</item>
+        <item>CAD</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>EUR</item>
+        <item>HKD</item>
+        <item>HUF</item>
+        <item>ILS</item>
+        <item>JPY</item>
+        <item>MXN</item>
+        <item>TWD</item>
+        <item>NZD</item>
+        <item>NOK</item>
+        <item>PHP</item>
+        <item>PLN</item>
+        <item>RUB</item>
+        <item>SGD</item>
+        <item>SEK</item>
+        <item>CHF</item>
+        <item>THB</item>
+    </string-array>
+
+
+    
+    <string name="year_range_start" translatable="false">1900</string>
+    <string name="year_range_end" translatable="false">2021</string>
+
+    
+
+    
+
+    
+
+    <string name="title_activity_item_show">សកម្មភាពបង្ហាញធាតុ</string>
+    <string name="title_activity_details">សកម្មភាពលម្អិត</string>
+    <string name="title_activity_reply">សកម្មភាពឆ្លើយតប</string>
+    <string name="play_now">លេង​ឥឡូវ</string>
+    <string name="go_premium">ទៅ Premium</string>
+    <string name="program_guide">មគ្គុទ្ទេសក៍កម្មវិធី</string>
+    <string name="live">រស់នៅ</string>
+    <string name="watching_on">កំពុងមើលការផ្សាយបន្តផ្ទាល់</string>
+    <string name="all_tv_channel">ប៉ុស្តិ៍ទូរទស្សន៍ទាំងអស់។</string>
+    <string name="you_may_also_like">អ្នកក៏អាចចូលចិត្តដែរ។</string>
+    <string name="dark_mode">របៀបងងឹត</string>
+    <string name="tv_channels">ប៉ុស្តិ៍ទូរទស្សន៍</string>
+    <string name="watching_catch_up_tv">កំពុងមើលទូរទស្សន៍ Catch-up</string>
+    <string name="deactive_account_text">ប្រសិនបើអ្នកមិនចង់ប្រើគណនីនេះ អ្នកអាចបិទដំណើរការបានយ៉ាងងាយស្រួល។</string>
+    <string name="reason_to_deactivate_account">ហេតុផលដើម្បីបិទគណនី</string>
+    <string name="enter_password">បញ្ចូលពាក្យសម្ងាត់</string>
+    <string name="long_text">ដល់ពេលចាប់ផ្តើមធ្វើការលើគ្រែហើយ។ </string>
+    <string name="deactivate_account">បិទ​ដំណើរការ​គណនី</string>
+    <string name="explore_by_genre">រុករកតាមប្រភេទ</string>
+    <string name="explore_by_country">រុករកតាមប្រទេស</string>
+    <string name="share_this_app">ចែករំលែកកម្មវិធីនេះ</string>
+    <string name="connect_to_tv">ភ្ជាប់ទៅទូរទស្សន៍</string>
+    <string name="share_body">ខ្ញុំចង់ចែករំលែកទូរទស្សន៍នេះ។</string>
+    <string name="term_of_services">លក្ខខណ្ឌនៃសេវាកម្ម</string>
+    <string name="accept">ទទួលយក</string>
+    <string name="decline">បដិសេធ</string>
+    <string name="account_deactivate_info">គណនីរបស់អ្នកនឹងត្រូវបិទដំណើរការ</string>
+    <string name="regular_program">កម្មវិធីទៀងទាត់</string>
+    <string name="international">អន្តរជាតិ</string>
+    <string name="server">ម៉ាស៊ីនមេ</string>
+    <string name="_1080p">1080P</string>
+    <string name="dummy_name">ចនឌឺ</string>
+    <string name="notifications">ការជូនដំណឹង</string>
+    <string name="push_notification">ការជូនដំណឹងជំរុញ</string>
+    <string name="others">ផ្សេងទៀត។</string>
+    <string name="others_small">ផ្សេងៗ</string>
+    <string name="no_data_found">រកមិនឃើញទិន្នន័យទេ។</string>
+    <string name="no_subscription_history">រកមិនឃើញប្រវត្តិជាវទេ។</string>
+    <string name="plan">ផែនការ</string>
+    <string name="no_active_subscription_found">រកមិនឃើញការជាវសកម្មទេ។</string>
+    <string name="upgrade_membership">បង្កើនសមាជិកភាព</string>
+    <string name="p_date">P. កាលបរិច្ឆេទ</string>
+    <string name="from">ពី</string>
+    <string name="to">ទៅ</string>
+    <string name="action">សកម្មភាព</string>
+    <string name="status">ស្ថានភាព</string>
+    <string name="by_tapping_the_button_you_agree_to_oxxo_term_amp_condition_and_privacy_policy">ដោយចុចប៊ូតុង អ្នកយល់ព្រមនឹងលក្ខខណ្ឌ Oxxo</string>
+
+
+    <string name="paid_content">អ្នកកំពុងព្យាយាមមើលមាតិកាបង់ប្រាក់។ </string>
+    <string name="subscription_required">តម្រូវឱ្យជាវ</string>
+    <string name="subscribe_text">ជាវ</string>
+    <string name="payment_success">ការទូទាត់ជោគជ័យ។</string>
+    <string name="invalid_card">កាតមិនត្រឹមត្រូវ</string>
+    <string name="subscribe_error">ដើម្បីជាវគម្រោងមួយ អ្នកត្រូវតែចូលជាមុនសិន។</string>
+    <string name="something_went_text">មានអ្វីមួយខុសប្រក្រតី សូមព្យាយាមម្តងទៀត ឬទាក់ទងទៅអ្នកអភិវឌ្ឍន៍របស់អ្នក។</string>
+    <string name="something_went_wrong">មាន​អ្វីមួយ​មិន​ប្រក្រតី។</string>
+    <string name="go_back">ត្រឡប់​ក្រោយ</string>
+    <string name="cvv">CVV</string>
+    <string name="mm_yy">MM/YY</string>
+    <string name="card_number">លេខ​កាត</string>
+    <string name="downloading">កំពុងទាញយក</string>
+    <string name="download_completed">ការទាញយកបានបញ្ចប់</string>
+    <string name="watch_now">មើលឥឡូវនេះ</string>
+    <string name="download">ទាញយក</string>
+    <string name="select_server">ជ្រើសរើសម៉ាស៊ីនមេ</string>
+    <string name="home">ផ្ទះ</string>
+    <string name="buy_any_subscription_below_and_enjoy_oxoo_prime">ទិញការជាវណាមួយខាងក្រោម ហើយរីករាយជាមួយមុខងារសំខាន់ៗរបស់ OXOO។</string>
+    <string name="all_tv_channels">ប៉ុស្តិ៍ទូរទស្សន៍</string>
+    <string name="all_kids_videos">វីដេអូកុមារទាំងអស់។</string>
+    <string name="all_tv_series">ស៊េរីទូរទស្សន៍ទាំងអស់។</string>
+    <string name="unlimited_movies">ភាពយន្តគ្មានដែនកំណត់</string>
+    <string name="please_select_your_payment_method">សូមជ្រើសរើសវិធីបង់ប្រាក់របស់អ្នក។</string>
+    <string name="download_appear_text">ធាតុទាញយករបស់អ្នកនឹងបង្ហាញនៅទីនេះ។ </string>
+    <string name="send">ផ្ញើ</string>
+    <string name="searcHError_message">ចំណងជើង ឬប្រភេទមិនអាចទទេបានទេ។</string>
+    <string name="external_download_links">តំណទាញយកខាងក្រៅ៖</string>
+    <string name="rating">ការវាយតម្លៃ</string>
+
+    
+    <string name="hello_blank_fragment">សួស្តី បំណែកទទេ</string>
+    <string name="add_to_fav">បន្ថែមទៅសំណព្វ</string>
+    <string name="remove_from_fav">យកចេញពីសំណព្វ</string>
+
+    <string name="enter_your_activation_code">បញ្ចូលលេខកូដធ្វើឱ្យសកម្មរបស់អ្នក។</string>
+    <string name="enter_code">បញ្ចូលលេខកូដនៅទីនេះ</string>
+    <string name="get_activation_code_following">អនុវត្តតាមជំហានខាងក្រោមដើម្បីទទួលបានលេខកូដ៖</string>
+    <string name="instruction_2">2. បន្ទាប់មកចូលទៅកាន់ការកំណត់។</string>
+    <string name="instruction_3">3. បន្ទាប់មកចុចលើ "ភ្ជាប់ទៅទូរទស្សន៍"។</string>
+    <string name="signout">ចាកចេញ</string>
+    <string name="connect">ភ្ជាប់</string>
+    <string name="user_name">ឈ្មោះ​អ្នកប្រើប្រាស់:</string>
+    <string name="emailTv">អ៊ីមែល៖</string>
+    <string name="expire_date">កាលបរិច្ឆេទផុតកំណត់៖</string>
+    <string name="signed_in_as">បានចូលជា៖</string>
+    <string name="connecting">កំពុងភ្ជាប់...</string>
+    <string name="active_plan">ផែនការសកម្ម៖</string>
+
+    
+    <string name="dialog_instruction_1">1. ទៅរបស់អ្នក។</string>
+    <string name="dialog_instruction_2">កម្មវិធីនៅក្នុងទូរស័ព្ទរបស់អ្នក។</string>
+    <string name="dialog_instruction_3">2. ទិញកញ្ចប់មួយ។</string>
+    <string name="continue_browsing">បន្តរុករក</string>
+    <string name="enter_below_code_on_your_tv">បញ្ចូលកូដខាងក្រោមនៅលើទូរទស្សន៍របស់អ្នក។</string>
+    <string name="all_radio_channels">ប៉ុស្តិ៍វិទ្យុទាំងអស់។</string>
+    <string name="listening_on">កំពុងស្តាប់</string>
+    <string name="type_keyword">វាយពាក្យគន្លឹះ</string>
+    <string name="year_range">ជួរឆ្នាំ</string>
+    <string name="cancel">បោះបង់</string>
+    <string name="tv_category">ប្រភេទទូរទស្សន៍</string>
+    <string name="sign_up_now">ចុះឈ្មោះឥឡូវនេះ</string>
+    <string name="continue_with_google">បន្តជាមួយ Google</string>
+    <string name="sign_up">ចុះ​ឈ្មោះ</string>
+    <string name="login">ចូល</string>
+    <string name="login_using_your_email_address">ចូលដោយប្រើអាសយដ្ឋានអ៊ីមែលរបស់អ្នក។</string>
+    <string name="email_address">អាស័យ​ដ្ឋាន​អ៊ី​ម៉េ​ល</string>
+    <string name="dont_t_have_an_account">មិនមានគណនីមែនទេ?</string>
+    <string name="sign_up_using_your_email_address">ចុះឈ្មោះដោយប្រើអាសយដ្ឋានអ៊ីមែលរបស់អ្នក។</string>
+    <string name="name">ឈ្មោះ</string>
+    <string name="all_countries">ប្រទេសទាំងអស់។</string>
+    <string name="all_categories">ប្រភេទ​ទាំងអស់</string>
+    <string name="external_download">ការទាញយកខាងក្រៅ</string>
+    <string name="inApp_download">នៅក្នុងការទាញយកកម្មវិធី</string>
+    <string name="select_download_server">ជ្រើសរើសម៉ាស៊ីនមេទាញយក</string>
+    <string name="all_genres">ប្រភេទទាំងអស់។</string>
+    <string name="download_not_permitted">អ្នកត្រូវតែមានការជាវដើម្បីទាញយកវីដេអូនេះ។</string>
+    <string name="file_already_downloaded">ឯកសារត្រូវបានទាញយករួចហើយ។</string>
+    <string name="file_not_found">រក​មិន​ឃើញ​ឯកសារ</string>
+    <string name="phone_number">លេខទូរសព្ទ</string>
+    <string name="gender">ភេទ</string>
+    <string name="male">ប្រុស</string>
+    <string name="user_name_">ឈ្មោះ​អ្នកប្រើប្រាស់:</string>
+    <string name="active_plan_">ផែនការសកម្ម៖</string>
+    <string name="email_">អ៊ីមែល៖</string>
+    <string name="expire_date_">កាលបរិច្ឆេទផុតកំណត់៖</string>
+    <string name="active_subscription">ការជាវសកម្ម</string>
+    <string name="no_download_server_found">រកមិនឃើញតំណទាញយកទេ។</string>
+    <string name="no_video_found">រកមិនឃើញវីដេអូទេ។</string>
+    <string name="failed_to_communicate">បរាជ័យក្នុងការទំនាក់ទំនងជាមួយម៉ាស៊ីនមេ។ </string>
+    <string name="no_configuration_data_found">រកមិនឃើញទិន្នន័យកំណត់រចនាសម្ព័ន្ធទេ។</string>
+    <string name="please_login_first_to_see_favorite_list">សូមចូលដើម្បីមើលបញ្ជីដែលចូលចិត្ត។</string>
+    <string name="episode">វគ្គ</string>
+    <string name="continue_watching">បន្តមើល</string>
+    <string name="trailer">ឈុតខ្លីៗ</string>
+    <string name="popular_stars">តារាល្បីៗ</string>
+    <string name="report">រាយការណ៍</string>
+    <string name="report_intro">សូមពណ៌នាអំពីបញ្ហារបស់អ្នក ដើម្បីឱ្យយើងអាចជួសជុលវាបានឆាប់រហ័ស។ </string>
+    <string name="broken">ខូច</string>
+    <string name="wrong_movie">ភាពយន្តខុស</string>
+    <string name="not_synced">មិន​បាន​ធ្វើ​សមកាលកម្ម</string>
+    <string name="audio">អូឌីយ៉ូ</string>
+    <string name="wrong_subtitle">ចំណងជើងរងខុស</string>
+    <string name="missing_subtitle">បាត់ចំណងជើងរង</string>
+    <string name="your_name">ឈ្មោះ​របស់​អ្នក</string>
+    <string name="message">សារ</string>
+    <string name="movie_name">ឈ្មោះភាពយន្ត</string>
+    <string name="request">ស្នើសុំ</string>
+    <string name="already_have_an_account">មានគណនីរួចហើយ?</string>
+    <string name="download_started_on_notification_bar">ការទាញយកបានចាប់ផ្តើម។</string>
+    <string name="clear">ច្បាស់</string>
+
+</resources>

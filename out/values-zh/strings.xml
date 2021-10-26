@@ -1,0 +1,304 @@
+<resources>
+    <string name="app_name">泰国系列应用</string>
+    
+    <string name="app_title">泰国系列 - 电视直播</string>
+    <string name="app_version">1.0.0</string>
+    <string name="contact_email">thaimovie@pm.me</string>
+    <string name="copyright_text">版权所有@ ThaiDev，保留所有权利</string>
+
+    
+    <string name="featured_tv_channels">精选电视频道</string>
+    <string name="latest_movie">最新电影</string>
+    <string name="latest_tv_series">最新电视剧</string>
+    <string name="more">更多的</string>
+    <string name="movie">电影</string>
+    <string name="live_tv">电视直播</string>
+    <string name="tv_series">系列</string>
+    <string name="country">国家</string>
+    <string name="genre">类型</string>
+    <string name="favorite">最喜欢的</string>
+    <string name="search">搜索</string>
+    <string name="no_item_found">没有找到项目</string>
+    <string name="cast_n_crew">演职人员</string>
+    <string name="signin">登入</string>
+    <string name="reset">重设密码</string>
+    <string name="register">登记</string>
+    <string name="full_name">全名</string>
+    <string name="email">电子邮件</string>
+    <string name="password">密码</string>
+    <string name="save">节省</string>
+    <string name="director">导向器 ：</string>
+    <string name="comments">注释</string>
+    <string name="your_comments">你的评论</string>
+    <string name="add_comments">添加评论</string>
+    <string name="no_internet">没有网络连接 ！</string>
+    <string name="copyright">版权</string>
+    <string name="contact_us">联系我们</string>
+    <string name="fetch_error">无法获取数据</string>
+    <string name="login_first">您需要先登录</string>
+    <string name="comment_empty">评论不能为空</string>
+    <string name="error_toast">出了些问题 ！</string>
+    <string name="vpn_detected">检测到 VPN！！</string>
+    <string name="close_vpn">关闭 VPN 并重新打开此应用程序。</string>
+    <string name="track_selection_title">更改轨道</string>
+    <string name="default_stream_quality">默认流质量</string>
+    <string name="default_download_quality">默认下载质量</string>
+    <string name="notification_error">错误</string>
+    <string name="out_of_memory">没有可用空间。</string>
+
+    <string-array name="nav_item_name">
+        <item>家</item>
+        <item>电影</item>
+        <item>系列</item>
+        <item>电视直播</item>
+        <item>类型</item>
+        <item>国家</item>
+        <item>轮廓</item>
+        <item>最喜欢的</item>
+        <item>订阅</item>
+        <item>下载</item>
+        <item>设置</item>
+        <item>登出</item>
+
+    </string-array>
+
+    <string-array name="nav_item_image" translatable="false">
+        <item>outline_home_24</item>
+        <item>outline_movie_24</item>
+        <item>outline_local_movies_24</item>
+        <item>outline_live_tv_24</item>
+        <item>outline_folder_24</item>
+        <item>outline_outlined_flag_24</item>
+        <item>outline_person_24</item>
+        <item>outline_favorite_border_24</item>
+        <item>ic_subscriptions_black_24dp</item>
+        <item>ic_file_download_black_24dp</item>
+        <item>outline_settings_24</item>
+        <item>outline_lock_24</item>
+    </string-array>
+
+
+    <string-array name="nav_item_name_2">
+        <item>家</item>
+        <item>电影</item>
+        <item>系列</item>
+        <item>电视直播</item>
+        <item>类型</item>
+        <item>国家</item>
+        <item>登录</item>
+        <item>设置</item>
+    </string-array>
+
+    <string-array name="nav_item_image_2" translatable="false">
+        <item>outline_home_24</item>
+        <item>outline_movie_24</item>
+        <item>outline_local_movies_24</item>
+        <item>outline_live_tv_24</item>
+        <item>outline_folder_24</item>
+        <item>outline_outlined_flag_24</item>
+        <item>outline_lock_24</item>
+        <item>outline_settings_24</item>
+    </string-array>
+
+
+    
+    
+    <string-array name="paypal_currency_list" translatable="false">
+        <item>USD</item>
+        <item>AUD</item>
+        <item>BRL</item>
+        <item>GBP</item>
+        <item>CAD</item>
+        <item>CZK</item>
+        <item>DKK</item>
+        <item>EUR</item>
+        <item>HKD</item>
+        <item>HUF</item>
+        <item>ILS</item>
+        <item>JPY</item>
+        <item>MXN</item>
+        <item>TWD</item>
+        <item>NZD</item>
+        <item>NOK</item>
+        <item>PHP</item>
+        <item>PLN</item>
+        <item>RUB</item>
+        <item>SGD</item>
+        <item>SEK</item>
+        <item>CHF</item>
+        <item>THB</item>
+    </string-array>
+
+
+    
+    <string name="year_range_start" translatable="false">1900</string>
+    <string name="year_range_end" translatable="false">2021</string>
+
+    
+
+    
+
+    
+
+    <string name="title_activity_item_show">ItemShowActivity</string>
+    <string name="title_activity_details">详情活动</string>
+    <string name="title_activity_reply">回复活动</string>
+    <string name="play_now">现在播放</string>
+    <string name="go_premium">高级版</string>
+    <string name="program_guide">节目指南</string>
+    <string name="live">居住</string>
+    <string name="watching_on">看直播</string>
+    <string name="all_tv_channel">所有电视频道</string>
+    <string name="you_may_also_like">你可能也会喜欢</string>
+    <string name="dark_mode">黑暗模式</string>
+    <string name="tv_channels">电视频道</string>
+    <string name="watching_catch_up_tv">看追赶电视</string>
+    <string name="deactive_account_text">如果您不想使用此帐户，您可以轻松停用。</string>
+    <string name="reason_to_deactivate_account">停用帐户的原因</string>
+    <string name="enter_password">输入密码</string>
+    <string name="long_text">是时候开始在床上工作了。 </string>
+    <string name="deactivate_account">关闭户口</string>
+    <string name="explore_by_genre">按类型探索</string>
+    <string name="explore_by_country">按国家探索</string>
+    <string name="share_this_app">分享这个应用程式</string>
+    <string name="connect_to_tv">连接到电视</string>
+    <string name="share_body">我想分享这台电视</string>
+    <string name="term_of_services">服务条款</string>
+    <string name="accept">接受</string>
+    <string name="decline">衰退</string>
+    <string name="account_deactivate_info">您的帐户将被停用</string>
+    <string name="regular_program">常规课程</string>
+    <string name="international">国际的</string>
+    <string name="server">服务器</string>
+    <string name="_1080p">1080P</string>
+    <string name="dummy_name">约翰·多伊</string>
+    <string name="notifications">通知</string>
+    <string name="push_notification">推送通知</string>
+    <string name="others">其他</string>
+    <string name="others_small">其他</string>
+    <string name="no_data_found">没有找到数据。</string>
+    <string name="no_subscription_history">未找到订阅历史记录。</string>
+    <string name="plan">计划</string>
+    <string name="no_active_subscription_found">未找到有效订阅。</string>
+    <string name="upgrade_membership">升级会员</string>
+    <string name="p_date">日期</string>
+    <string name="from">从</string>
+    <string name="to">到</string>
+    <string name="action">行动</string>
+    <string name="status">地位</string>
+    <string name="by_tapping_the_button_you_agree_to_oxxo_term_amp_condition_and_privacy_policy">点击按钮，即表示您同意 Oxxo 条款</string>
+
+
+    <string name="paid_content">您正在尝试观看付费内容。</string>
+    <string name="subscription_required">需要订阅</string>
+    <string name="subscribe_text">订阅</string>
+    <string name="payment_success">付款成功。</string>
+    <string name="invalid_card">无效卡</string>
+    <string name="subscribe_error">要订阅计划，您必须先登录。</string>
+    <string name="something_went_text">出了点问题，请重试或与您的开发人员联系。</string>
+    <string name="something_went_wrong">出了些问题。</string>
+    <string name="go_back">回去</string>
+    <string name="cvv">变异系数</string>
+    <string name="mm_yy">月/年</string>
+    <string name="card_number">卡号</string>
+    <string name="downloading">下载</string>
+    <string name="download_completed">下载完成</string>
+    <string name="watch_now">立即观看</string>
+    <string name="download">下载</string>
+    <string name="select_server">选择服务器</string>
+    <string name="home">家</string>
+    <string name="buy_any_subscription_below_and_enjoy_oxoo_prime">购买下面的任何订阅并享受 OXOO 主要功能。</string>
+    <string name="all_tv_channels">电视频道</string>
+    <string name="all_kids_videos">所有儿童视频</string>
+    <string name="all_tv_series">所有电视剧</string>
+    <string name="unlimited_movies">无限电影</string>
+    <string name="please_select_your_payment_method">请选择您的付款方式</string>
+    <string name="download_appear_text">您的下载项目将出现在这里。</string>
+    <string name="send">发送</string>
+    <string name="searcHError_message">标题或类型不能为空</string>
+    <string name="external_download_links">外部下载链接：</string>
+    <string name="rating">评分</string>
+
+    
+    <string name="hello_blank_fragment">你好空白片段</string>
+    <string name="add_to_fav">添加到收藏夹</string>
+    <string name="remove_from_fav">从收藏夹中删除</string>
+
+    <string name="enter_your_activation_code">输入您的激活码</string>
+    <string name="enter_code">在此处输入代码</string>
+    <string name="get_activation_code_following">按照以下步骤获取代码：</string>
+    <string name="instruction_2">2. 然后进入设置。</string>
+    <string name="instruction_3">3. 然后点击“连接到电视”。</string>
+    <string name="signout">登出</string>
+    <string name="connect">连接</string>
+    <string name="user_name">用户名：</string>
+    <string name="emailTv">电子邮件：</string>
+    <string name="expire_date">到期日期：</string>
+    <string name="signed_in_as">以以下身份登录：</string>
+    <string name="connecting">正在连接…</string>
+    <string name="active_plan">活动计划：</string>
+
+    
+    <string name="dialog_instruction_1">1. 去你的</string>
+    <string name="dialog_instruction_2">手机中的应用程序。</string>
+    <string name="dialog_instruction_3">2. 买包</string>
+    <string name="continue_browsing">继续浏览</string>
+    <string name="enter_below_code_on_your_tv">在您的电视上输入以下代码</string>
+    <string name="all_radio_channels">所有无线电频道</string>
+    <string name="listening_on">聆听</string>
+    <string name="type_keyword">键入关键字</string>
+    <string name="year_range">年份范围</string>
+    <string name="cancel">取消</string>
+    <string name="tv_category">电视类别</string>
+    <string name="sign_up_now">立即注册</string>
+    <string name="continue_with_google">继续使用 Google</string>
+    <string name="sign_up">注册</string>
+    <string name="login">登录</string>
+    <string name="login_using_your_email_address">使用您的电子邮件地址登录</string>
+    <string name="email_address">电子邮件地址</string>
+    <string name="dont_t_have_an_account">没有账号？</string>
+    <string name="sign_up_using_your_email_address">使用您的电子邮件地址注册</string>
+    <string name="name">姓名</string>
+    <string name="all_countries">所有国家</string>
+    <string name="all_categories">所有类别</string>
+    <string name="external_download">外部下载</string>
+    <string name="inApp_download">在应用程序下载</string>
+    <string name="select_download_server">选择下载服务器</string>
+    <string name="all_genres">所有流派</string>
+    <string name="download_not_permitted">您必须订阅才能下载此视频。</string>
+    <string name="file_already_downloaded">文件已经下载。</string>
+    <string name="file_not_found">文件未找到</string>
+    <string name="phone_number">电话号码</string>
+    <string name="gender">性别</string>
+    <string name="male">男性</string>
+    <string name="user_name_">用户名：</string>
+    <string name="active_plan_">活动计划：</string>
+    <string name="email_">电子邮件：</string>
+    <string name="expire_date_">到期日期：</string>
+    <string name="active_subscription">活跃订阅</string>
+    <string name="no_download_server_found">找不到下载链接</string>
+    <string name="no_video_found">没有找到视频</string>
+    <string name="failed_to_communicate">无法与服务器通信。 </string>
+    <string name="no_configuration_data_found">未找到配置数据。</string>
+    <string name="please_login_first_to_see_favorite_list">请登录以查看收藏列表。</string>
+    <string name="episode">插曲</string>
+    <string name="continue_watching">继续观看</string>
+    <string name="trailer">预告片</string>
+    <string name="popular_stars">人气明星</string>
+    <string name="report">报告</string>
+    <string name="report_intro">请描述您的问题，以便我们尽快解决。</string>
+    <string name="broken">破碎的</string>
+    <string name="wrong_movie">错误的电影</string>
+    <string name="not_synced">未同步</string>
+    <string name="audio">声音的</string>
+    <string name="wrong_subtitle">错误的字幕</string>
+    <string name="missing_subtitle">缺少字幕</string>
+    <string name="your_name">你的名字</string>
+    <string name="message">信息</string>
+    <string name="movie_name">电影名称</string>
+    <string name="request">要求</string>
+    <string name="already_have_an_account">已经有账户？</string>
+    <string name="download_started_on_notification_bar">下载开始。</string>
+    <string name="clear">清除</string>
+
+</resources>
